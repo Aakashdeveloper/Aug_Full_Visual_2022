@@ -37,3 +37,7 @@ Inline element
 > Start in same line
 > only take the space which is requied
 > a, img, span
+
+src > source
+alt > alternate
+href > hyperReffernce
